@@ -1,0 +1,1 @@
+This repository demonstrates a common Java error: ConcurrentModificationException. The example code attempts to modify an ArrayList while iterating over it using an enhanced for loop which is not allowed.  The solution shows how to safely modify the list during iteration. 
